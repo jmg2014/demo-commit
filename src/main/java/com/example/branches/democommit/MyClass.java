@@ -9,7 +9,7 @@ public class MyClass {
   int fifth = 5;
   int sixth = 6;
   int seventh = 7;
-  int eighth = 8;
+  int eighth = 9;
 }
 
 

@@ -8,7 +8,8 @@ public class MyClass {
   int fourth = 4;
   int fifth = 5;
   int sixth = 6;
-  int seventh=7;
+  int seventh = 7;
+  int eighth = 8;
 }
 
 

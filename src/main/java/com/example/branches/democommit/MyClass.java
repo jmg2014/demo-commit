@@ -10,6 +10,7 @@ public class MyClass {
   int sixth = 6;
   int seventh = 7;
   int eighth = 8;
+  int nineth=9;
 }
 
 

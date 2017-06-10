@@ -7,6 +7,7 @@ public class MyClass {
   int third = 3;
   int fourth = 4;
   int fifth = 5;
+  int sixth = 6;
 
 }
 
